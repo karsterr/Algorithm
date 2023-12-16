@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Area_and_Circumference_of_Circle",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Area_and_Circumference_of_Circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Area_and_Circumference_of_Circle-Debug-e94906fcdc3c6dc92b26.json",
+					"name" : "Area_and_Circumference_of_Circle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/karsterr/Programming/karsterr/Algorithm/Area and Circumference of Circle/cmake-build-debug",
+		"source" : "/home/karsterr/Programming/karsterr/Algorithm/Area and Circumference of Circle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
