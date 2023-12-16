@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Area of Triangle/cmake-build-debug/CMakeFiles/Area_of_Triangle.dir
+/home/karsterr/Programming/karsterr/Algorithm/Area of Triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Area of Triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
