@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm practices from 'KodLab Algoritma' book.
+Algorithm practices from various resources in C 
