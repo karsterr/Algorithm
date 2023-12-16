@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Fahrenheit to Celsius/cmake-build-debug/CMakeFiles/Fahrenheit_to_Celsius.dir
+/home/karsterr/Programming/karsterr/Algorithm/Fahrenheit to Celsius/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Fahrenheit to Celsius/cmake-build-debug/CMakeFiles/rebuild_cache.dir
