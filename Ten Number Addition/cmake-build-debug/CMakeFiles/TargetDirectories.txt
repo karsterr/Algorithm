@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Ten Number Addition/cmake-build-debug/CMakeFiles/Ten_Number_Addition.dir
+/home/karsterr/Programming/karsterr/Algorithm/Ten Number Addition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Ten Number Addition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
