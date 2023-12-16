@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Min Max Numbers/cmake-build-debug/CMakeFiles/Min_Max_Numbers.dir
+/home/karsterr/Programming/karsterr/Algorithm/Min Max Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Min Max Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
