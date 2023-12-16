@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Decimal to Binary/cmake-build-debug/CMakeFiles/Decimal_to_Binary.dir
+/home/karsterr/Programming/karsterr/Algorithm/Decimal to Binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Decimal to Binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
