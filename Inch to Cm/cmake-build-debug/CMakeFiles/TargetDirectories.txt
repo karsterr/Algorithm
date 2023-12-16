@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Inch to Cm/cmake-build-debug/CMakeFiles/Inch_to_Cm.dir
+/home/karsterr/Programming/karsterr/Algorithm/Inch to Cm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Inch to Cm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
