@@ -20,5 +20,4 @@ int main(){
         printf("Not Prime Number");
     }
     return 0;
-
 }
