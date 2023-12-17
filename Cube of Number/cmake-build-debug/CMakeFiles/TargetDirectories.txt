@@ -1,0 +1,3 @@
+/home/karsterr/Programming/karsterr/Algorithm/Cube of Number/cmake-build-debug/CMakeFiles/Cube_of_Number.dir
+/home/karsterr/Programming/karsterr/Algorithm/Cube of Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karsterr/Programming/karsterr/Algorithm/Cube of Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
